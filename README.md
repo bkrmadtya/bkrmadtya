@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/bkrmadtya/bkrmadtya/blob/output/avatar.gif" height="300" alt="bkrmadtya avatar gif"  />
+  <img src="https://github.com/bkrmadtya/bkrmadtya/blob/output/avatar-square.gif" height="300" alt="bkrmadtya avatar gif"  />
 </div>
 
 ###
