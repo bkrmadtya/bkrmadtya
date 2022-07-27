@@ -52,8 +52,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img href="https://github.com/bkrmadtya/bkrmadtya/blob/output/snake.svg" alt="Snake animation" />
+
+  ![Snake animation](https://github.com/bkrmadtya/bkrmadtya/blob/output/snake.svg)
+  
 </div>
