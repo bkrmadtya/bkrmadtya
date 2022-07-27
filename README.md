@@ -55,5 +55,5 @@
 <br clear="both">
 
 <div align="center">
-  <img href="https://raw.githubusercontent.com/bkrmadtya/bkrmadtya/blob/output/snake.svg" alt="Snake animation" />
+  <img href="https://github.com/bkrmadtya/bkrmadtya/blob/output/snake.svg" alt="Snake animation" />
 </div>
