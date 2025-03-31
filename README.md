@@ -17,7 +17,6 @@
 <div align="center">
   <img src="https://devicon-website.vercel.app/api/javascript/plain.svg" height="30" width="42" alt="javascript logo" />
   <img src="https://devicon-website.vercel.app/api/typescript/plain.svg" height="30" width="42" alt="typescript logo" />
-  <img src="https://devicon-website.vercel.app/api/java/plain.svg?color=orange" height="30" width="42" alt="java logo" />
   <img src="https://devicon-website.vercel.app/api/react/original.svg" height="30" width="42" alt="react logo" />
   <img src="https://devicon-website.vercel.app/api/nextjs/line.svg?color=white" height="30" width="42" alt="nextjs logo" />
   <img src="https://devicon-website.vercel.app/api/svelte/original.svg" height="30" width="42" alt="svelte logo" />  
@@ -34,6 +33,7 @@
   <img src="https://devicon-website.vercel.app/api/googlecloud/original.svg" height="30" width="42" alt="googlecloud logo" />  
   <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="30" width="42" alt="docker logo" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
+  <img src="https://devicon-website.vercel.app/api/java/plain.svg?color=orange" height="30" width="42" alt="java logo" />
 </div>
 
 ###
